@@ -1,0 +1,7 @@
+# to use this script, simply place your github lines one after another like the below example, and then run the python script.
+# 'python git_cloner.py' (or 'python3 git_cloner.py' for linux/ub/deb)
+# https://github.com/python/cpython.git
+# https://github.com/django/django.git
+# https://github.com/tensorflow/tensorflow.git
+
+
