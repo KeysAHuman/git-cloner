@@ -32,7 +32,7 @@ A super simple Python script that clones multiple GitHub repositories listed in 
 2. **Run the script**
 
 ```
-	python clone_repos.py
+	python git_cloner.py
 	Check the git_clone/ directory
 	All repositories will be cloned into this folder (it’s created automatically).
 ```
